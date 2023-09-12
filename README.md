@@ -4,3 +4,4 @@
   React
   Django
   Django Rest Framework
+  Bootstrap
